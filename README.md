@@ -5,4 +5,4 @@
 
 👉🏻 [Demo](https://purge-codee.github.io/Landing_Page-Codingzap/)
 
-![Demo](img/demo.gif)
+![Demo](img/demo.GIF)
